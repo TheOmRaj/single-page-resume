@@ -39,7 +39,7 @@ The goal was to recreate a provided resume layout using proper HTML structure an
 
 ## Project Structure
 HTML-Resume/
-├── index.html
+├── Project.html
 └── README.md
 
 ---
